@@ -5,7 +5,7 @@ Founder, CEO & Principal Researcher, ERE LABs by TDS KOREA CO., Ltd., Seoul, Sou
 
 공식 연구포털은 [tdskorea.com](https://tdskorea.com)에서 운영하며, [Google Scholar](https://scholar.google.com/citations?user=FPK6oMIAAAAJ), [ORCID iD (0009-0008-5337-8257)](https://orcid.org/0009-0008-5337-8257), [LinkedIn](https://www.linkedin.com/in/hyeon-seung-lee-1532843ab/)을 통해 공개 연구 기록을 동기화하고 있습니다. 학술 및 연구 문의는 `ceo@tdskorea.com`으로 받습니다.
 
-연구실은 관계 기반 수리·시스템 프레임워크(ERE)를 중심으로 복잡계 동역학, 신뢰 가능한 자율 AI 에이전트 권한 제어, 검증 가능한 연구 감사 방법론, 양자소자 진단 프로토콜을 연구합니다. 현재 한국 특허청(KIPO)에 57건의 특허 출원이 진행 중입니다(57 Pending Korean Patent Applications).
+연구실은 관계 기반 수리·시스템 프레임워크(ERE)를 중심으로 복잡계 동역학, 신뢰 가능한 자율 AI 에이전트 권한 제어, 검증 가능한 연구 감사 방법론, 양자소자 진단 프로토콜을 연구합니다. 현재 한국 특허청(KIPO)에 64건의 특허 출원이 진행 중입니다(64 Pending Korean Patent Applications).
 
 ---
 
