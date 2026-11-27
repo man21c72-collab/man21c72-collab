@@ -5,11 +5,11 @@ Founder, CEO & Principal Researcher, ERE LABs by TDS KOREA CO., Ltd., Seoul, Sou
 
 공식 연구포털은 [tdskorea.com](https://tdskorea.com)에서 운영하며, [Google Scholar](https://scholar.google.com/citations?user=FPK6oMIAAAAJ), [ORCID iD (0009-0008-5337-8257)](https://orcid.org/0009-0008-5337-8257), [LinkedIn](https://www.linkedin.com/in/hyeon-seung-lee-1532843ab/)을 통해 공개 연구 기록을 동기화하고 있습니다. 학술 및 연구 문의는 `ceo@tdskorea.com`으로 받습니다.
 
-연구실은 관계 기반 수리·시스템 프레임워크(ERE)를 중심으로 복잡계 동역학, 신뢰 가능한 자율 AI 에이전트 권한 제어, 검증 가능한 연구 감사 방법론, 양자소자 진단 프로토콜을 연구합니다. 현재 한국 특허청(KIPO)에 67건의 특허 출원이 진행 중입니다(67 Pending Korean Patent Applications).
+연구실은 관계 기반 수리·시스템 프레임워크(ERE)를 중심으로 복잡계 동역학, 신뢰 가능한 자율 AI 에이전트 권한 제어, 검증 가능한 연구 감사 방법론, 양자소자 진단 프로토콜을 연구합니다. 현재 한국 특허청(KIPO)에 68건의 특허 출원이 진행 중입니다(68 Pending Korean Patent Applications).
 
 ---
 
-## 공식 공개 논문 16편 색인 (Zenodo DOI & Research Portal)
+## 공식 공개 논문 17편 색인 (Zenodo DOI & Research Portal)
 
 ### 1. PG01: 출처 바인딩 권한 제어 및 원자적 실행 예산
 *Provenance-Bound Authorization with Atomic Execution Budgets*
@@ -106,6 +106,12 @@ DOI: https://doi.org/10.5281/zenodo.24519929
 
 메타데이터 증분 해시 스냅샷, 이중 임계값 카나리 탐지를 동반한 소표본 기권 및 정직한 미측정 권한 분리를 결합한 무팝업 엔드포인트 보안 감사 아키텍처입니다.
 DOI: https://doi.org/10.5281/zenodo.24519932
+
+### 17. TDS-TR1: 암흑물질 헤일로 중심 표면밀도에 대한 5축 무재시도 사전등록 감사 (관측 천체물리학 프리프린트)
+*Five-Axis Zero-Retry Preregistered Audit of Dark-Matter Halo Core Surface Density: Isolating Optically-Selected Weak-Lensing Scaling from X-Ray Hydrostatic and Selection Biases*
+
+광학 선별 약한 중력렌즈 스케일링을 X선 정역학 및 선택 편향으로부터 분리하여 암흑물질 헤일로 중심 표면밀도를 검증한 사전등록 천체물리학 프리프린트입니다(2026-11-27 · Zenodo Preprint · Submitted to Physics of the Dark Universe, Elsevier).
+DOI: https://doi.org/10.5281/zenodo.24574031
 
 ---
 
