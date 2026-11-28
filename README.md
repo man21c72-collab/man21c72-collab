@@ -5,11 +5,11 @@ Founder, CEO & Principal Researcher, ERE LABs by TDS KOREA CO., Ltd., Seoul, Sou
 
 공식 연구포털은 [tdskorea.com](https://tdskorea.com)에서 운영하며, [Google Scholar](https://scholar.google.com/citations?user=FPK6oMIAAAAJ), [ORCID iD (0009-0008-5337-8257)](https://orcid.org/0009-0008-5337-8257), [LinkedIn](https://www.linkedin.com/in/hyeonseung-lee-tdskorea/), [X (@man21c721)](https://x.com/man21c721)을 통해 공개 연구 기록을 동기화하고 있습니다. 학술 및 연구 문의는 `ceo@tdskorea.com`으로 받습니다.
 
-연구실은 관계 기반 수리·시스템 프레임워크(ERE)를 중심으로 복잡계 동역학, 신뢰 가능한 자율 AI 에이전트 권한 제어, 검증 가능한 연구 감사 방법론, 양자소자 진단 프로토콜을 연구합니다. 현재 한국 특허청(KIPO)에 68건의 특허 출원이 진행 중입니다(68 Pending Korean Patent Applications).
+연구실은 관계 기반 수리·시스템 프레임워크(ERE)를 중심으로 복잡계 동역학, 신뢰 가능한 자율 AI 에이전트 권한 제어, 검증 가능한 연구 감사 방법론, 양자소자 진단 프로토콜을 연구합니다. 현재 한국 특허청(KIPO)에 71건의 특허 출원이 진행 중입니다(71 Pending Korean Patent Applications).
 
 ---
 
-## 공식 공개 논문 17편 색인 (Zenodo DOI & Research Portal)
+## 공식 공개 논문 19편 색인 (Zenodo DOI & Research Portal)
 
 ### 1. PG01: 출처 바인딩 권한 제어 및 원자적 실행 예산
 *Provenance-Bound Authorization with Atomic Execution Budgets*
@@ -112,6 +112,18 @@ DOI: https://doi.org/10.5281/zenodo.24519932
 
 광학 선별 약한 중력렌즈 스케일링을 X선 정역학 및 선택 편향으로부터 분리하여 암흑물질 헤일로 중심 표면밀도를 검증한 사전등록 천체물리학 프리프린트입니다(2026-11-27 · Zenodo Preprint · Submitted to Physics of the Dark Universe, Elsevier).
 DOI: https://doi.org/10.5281/zenodo.24574031
+
+### 18. TDS-TR2: 리튬이온 배터리 용량 급감 직전 비가우스 점프 전조의 무매개변수 사전등록 탐지
+*Zero-Parameter Preregistered Detection of Non-Gaussian Jump Precursors Prior to Lithium-Ion Battery Capacity Knees: Separating Bipolar Critical Flickering from Linear Critical Slowing Down*
+
+리튬이온 배터리의 급격한 용량 붕괴(capacity knee) 직전에 나타나는 양극성 초과첨도 깜빡임 전조를 추가 자유매개변수 0개로 사전등록·단일시행 블라인드 검증한 연구입니다(2026-11-28 · Zenodo Preprint · Target: Chaos, Solitons & Fractals, Elsevier).
+DOI: https://doi.org/10.5281/zenodo.24615707
+
+### 19. TDS-TR4: 고전 및 극저온 양자 플랫폼의 유한시간 란다우어 소거 관측 가능성 지도 (±3.2% 실측 해상도 하한)
+*Observability Windows for Finite-Time Landauer Erasure Across Classical and Cryogenic Quantum Platforms: Separating Thermal Quantum Speed Limits from Non-Markovian Relaxation Beyond a 3.2% Empirical Resolution Floor*
+
+50 μK ~ 300 K 범위의 6개 공개 단일비트 란다우어 소거 실험을 통합해 보수적 2-시그마 해상도 하한(±3.2%)을 정립하고, 극저온 양자 플랫폼에서 열적 양자속도한계(C2)와 비마르코프 유한이완 결합(C3)의 관측 가능성을 분리한 메타분석 연구입니다(2026-11-28 · Zenodo Preprint · Target: Physica A, Elsevier).
+DOI: https://doi.org/10.5281/zenodo.24615710
 
 ---
 
